@@ -1,0 +1,50 @@
+[
+  {
+    "Codigo": 0,
+    "Oscar": "Sim",
+    "Titulo": "Poderoso chefão\r\n",
+    "Assunto": "Crime\r\n",
+    "DataCompra": "27/03/2021\r\n",
+    "Preco": 25
+  },
+  {
+    "Codigo": 1,
+    "Oscar": "Nao",
+    "Titulo": "Coração de Tinta\r\n",
+    "Assunto": "Fantásia\r\n",
+    "DataCompra": "27/03/2021\r\n",
+    "Preco": 30
+  },
+  {
+    "Codigo": 2,
+    "Oscar": "Nao",
+    "Titulo": "Tumulo dos vagalumes\r\n",
+    "Assunto": "Drama\r\n",
+    "DataCompra": "27/03/2021\r\n",
+    "Preco": 50
+  },
+  {
+    "Codigo": 3,
+    "Oscar": "Nao",
+    "Titulo": "Tudo entre todas as coisas\r\n",
+    "Assunto": "Drama\r\n",
+    "DataCompra": "22/01/20213\r\n",
+    "Preco": 40
+  },
+  {
+    "Codigo": 4,
+    "Oscar": "Nao",
+    "Titulo": "Bad Boys\r\n",
+    "Assunto": "Ação\r\n",
+    "DataCompra": "28/07/2020\r\n",
+    "Preco": 50
+  },
+  {
+    "Codigo": 5,
+    "Oscar": "Nao",
+    "Titulo": "Invocação do mal \r\n",
+    "Assunto": "Terror\r\n",
+    "DataCompra": "22/04/2021\r\n",
+    "Preco": 35
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "CodigoFita": 0,
+    "CodigoCliente": 0,
+    "QuantidadeDiasFora": 10,
+    "Preco": 10
+  },
+  {
+    "CodigoFita": 1,
+    "CodigoCliente": 1,
+    "QuantidadeDiasFora": 5,
+    "Preco": 5
+  },
+  {
+    "CodigoFita": 2,
+    "CodigoCliente": 2,
+    "QuantidadeDiasFora": 15,
+    "Preco": 20
+  },
+  {
+    "CodigoFita": 0,
+    "CodigoCliente": 1,
+    "QuantidadeDiasFora": 8,
+    "Preco": 10
+  },
+  {
+    "CodigoFita": 0,
+    "CodigoCliente": 1,
+    "QuantidadeDiasFora": 5,
+    "Preco": 15
+  }
+]

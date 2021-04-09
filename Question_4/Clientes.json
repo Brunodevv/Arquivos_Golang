@@ -1,0 +1,26 @@
+[
+  {
+    "Codigo": 0,
+    "Telefone": "62 98482-3763\r\n",
+    "Nome": "Bruno Lopes\r\n",
+    "Endereco": "Rua José Leão \r\n",
+    "RG": "00000- 000\r\n",
+    "CPF": "020-557-141-71\r\n"
+  },
+  {
+    "Codigo": 1,
+    "Telefone": "00 00000-0000\r\n",
+    "Nome": "Gabriela de Sousa \r\n",
+    "Endereco": "Rua RDB-9\r\n",
+    "RG": "00 0000 0000\r\n",
+    "CPF": "050-037-311-67\r\n"
+  },
+  {
+    "Codigo": 2,
+    "Telefone": "00 00000 - 0000\r\n",
+    "Nome": "Cassio Lopes\r\n",
+    "Endereco": "Rua José Leão\r\n",
+    "RG": "00 00000\r\n",
+    "CPF": "000 000 000 00\r\n"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "NumSocio": 0,
+    "Nome": "Gabriela de Sousa Silva\r\n",
+    "Endereco": "Rua RDB-9\r\n",
+    "Bairro": "Dom Bosco\r\n",
+    "Cidade": "Goiânira\r\n",
+    "Estado": "Goiás\r\n",
+    "NumDependentes": 3,
+    "DataNiver": "29/04/2002\r\n"
+  },
+  {
+    "NumSocio": 1,
+    "Nome": "Cassio Lopes\r\n",
+    "Endereco": "Rua José Leão\r\n",
+    "Bairro": "Sítio Santa Luzia\r\n",
+    "Cidade": "Aparecida de Goiânia\r\n",
+    "Estado": "Goiás\r\n",
+    "NumDependentes": 3,
+    "DataNiver": "17/02/2009\r\n"
+  }
+]
